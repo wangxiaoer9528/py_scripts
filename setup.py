@@ -11,6 +11,7 @@ import sys
 # long_description = None
 # total_description = None
 # try:
+
 #     with open(os.path.join(this_directory, 'README.md'), 'rb') as f:
 #         total_description = f.read().decode('utf-8')
 #     description_lines = total_description.split('\n')
